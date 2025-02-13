@@ -4,6 +4,12 @@ import Header from './components/Header';
 import Home from './pages/Home';
 import Post from './pages/Post';
 import './styles/App.css';
+// Add to existing imports
+import Contact from './pages/Contact';
+
+// Update Routes component
+
+  
 
 function App() {
   return (
@@ -13,7 +19,8 @@ function App() {
         <main>
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/post/:id" element={<Post />} />
+  <Route path="/post/:id" element={<Post />} />
+  <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
       </div>
