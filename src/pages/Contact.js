@@ -70,12 +70,7 @@ const Contact = () => {
           <button type="submit" className="submit-btn">
             Send Message
           </button>
-                <div className="contact-info">
-  <h2>Get in Touch</h2>
-  <p>Email: contact@myblog.com</p>
-  <p>Phone: +1 234 567 890</p>
-  <p>Address: 123 Blog Street, Digital City</p>
-</div>
+                
                 
         </form>
       )}
