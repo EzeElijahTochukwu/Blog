@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './styles/Contact.css';
-
+<form action="https://formspree.io/f/{your-form-id}" method="POST">
 const Contact = () => {
   const [formData, setFormData] = useState({
     name: '',
