@@ -52,6 +52,36 @@ const BlogList = () => {
         <BlogPost key={post.id} post={post} />
       ))}
     </div>
+<div className="blog-list">
+      {posts.map(post => (
+        <BlogPost key={post.id} post={post} />
+      ))}
+    </div>
+<div className="blog-list">
+      {posts.map(post => (
+        <BlogPost key={post.id} post={post} />
+      ))}
+    </div>
+<div className="blog-list">
+      {posts.map(post => (
+        <BlogPost key={post.id} post={post} />
+      ))}
+    </div>
+<div className="blog-list">
+      {posts.map(post => (
+        <BlogPost key={post.id} post={post} />
+      ))}
+    </div>
+<div className="blog-list">
+      {posts.map(post => (
+        <BlogPost key={post.id} post={post} />
+      ))}
+    </div>
+<div className="blog-list">
+      {posts.map(post => (
+        <BlogPost key={post.id} post={post} />
+      ))}
+    </div>
   );
 };
 
