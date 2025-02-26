@@ -1,1 +1,18 @@
 
+<div className="brand-social">
+  <div className="social-icons">
+    <a href="https://www.instagram.com/yesabbawrites" target="_blank" rel="noopener noreferrer">
+      <i className="fab fa-instagram"></i>
+    </a>
+    <a href="https://www.threads.net/@yesabbawrites" target="_blank" rel="noopener noreferrer">
+      <i className="fa-brands fa-threads"></i>
+    </a>
+    <a href="https://www.pinterest.com/Yesabbawrites/" target="_blank" rel="noopener noreferrer">
+      <i className="fab fa-pinterest"></i>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=61571762233696" target="_blank" rel="noopener noreferrer">
+      <i className="fab fa-facebook"></i>
+    </a>
+  </div>
+  <h4 className="brand-name">yesabbawrites:</h4> {/* Move brand name below icons */}
+</div>
