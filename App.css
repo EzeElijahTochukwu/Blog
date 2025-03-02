@@ -5,11 +5,7 @@
   margin-top: 1rem;
 }
 
-.brand-name {
-  font-weight: bold;
-  color: #03C03C;
-  margin-left: 10px; /* Optional: add margin to prevent tight spacing */
-}
+
 
 .social-icons {
   display: flex;
