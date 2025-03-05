@@ -12,3 +12,17 @@
   gap: 0.4rem; /* Reduce spacing between icons */
 }
 
+.brand-social {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* Adjust spacing between text and icons */
+  margin-top: 1rem;
+}
+
+
+
+.social-icons {
+  display: flex;
+  gap: 0.4rem; /* Reduce spacing between icons */
+}
+
